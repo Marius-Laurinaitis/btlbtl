@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ runGame()
+comment0.text=\r\n\ Runs\ the\ Battleship\ game.\r\n
+comment1.params=
+comment1.target=int\ getZeroToNine()
+comment1.text=\r\n\ Asks\ the\ user\ repeatedly\ until\ an\ integer\ from\ 0\ to\ 9\ is\ entered\r\n\ on\ the\ keyboard.\r\n\r\n\ @return\ the\ entered\ integer\ from\ 0\ to\ 9\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ Calls\ the\ method\ to\ run\ the\ game\ once.\r\n\r\n\ @param\ args\ Ignored.\r\n
+numComments=3

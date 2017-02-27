@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EmptySea()
+comment0.text=\r\n\ \ Constructor\ of\ EmptySea\r\n\ \ @param\ \ none\r\n\ @return\ none\r\n
+comment1.params=
+comment1.target=java.lang.String\ getShipType()
+comment1.text=\r\n\ \ overrided\ method\ \r\n\ \ @param\ \ none\r\n\ @return\ returns\ String\ EmptySea\r\n
+comment2.params=row\ column
+comment2.target=boolean\ shootAt(int,\ int)
+comment3.params=
+comment3.target=boolean\ isSunk()
+comment4.params=
+comment4.target=boolean\ isRealShip()
+comment4.text=\r\n\ \ overrided\ method\ \r\n\ \ @param\ \ none\r\n\ @return\ true\r\n
+numComments=5

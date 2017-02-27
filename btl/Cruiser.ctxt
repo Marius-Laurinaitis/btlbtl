@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Cruiser()
+comment0.text=\r\n\ \ constructor\ of\ Cruiser\ \r\n\ \ @param\ \ none\r\n\ @return\ none\r\n
+comment1.params=
+comment1.target=java.lang.String\ getShipType()
+comment1.text=\r\n\ \ overrided\ method\ \r\n\ \ @param\ \ none\r\n\ @return\ returns\ String\ Cruiser\r\n
+comment2.params=
+comment2.target=boolean\ isRealShip()
+comment2.text=\r\n\ \ overrided\ method\ \r\n\ \ @param\ \ none\r\n\ @return\ returns\ boolean\ true\r\n
+numComments=3
